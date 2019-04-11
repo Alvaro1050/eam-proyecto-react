@@ -1,0 +1,27 @@
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.App-body {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.App{
+  background-color: #222;
+}
+.division{
+  text-align: center;
+  
+}
+
+a{
+  font-size: 100px;
+}
